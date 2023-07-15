@@ -1,0 +1,59 @@
+.croissant_description{
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+}
+
+.croissant_direction_title{
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.croissant_description_h2{
+    font-size: large;
+    font-family: cursive;
+}
+
+.croissant_directions{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.croissant_return{
+    color: blue;
+    font-size: larger;
+    font-family: cursive;
+}
+
+.crepe_direction_title{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+.crepe_description{
+     font-size:medium;
+     font-family:'Times New Roman', Times, serif;
+     font-style: italic;
+}
+
+.crepe_description_h2{
+    font-size: large;
+    font-family: cursive;
+}
+
+.crepe_return{
+    color:blue;
+    font-size: larger;
+    font-family: cursive;
+}
+
+.crepe.directions{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.links{
+    color: blue;
+    font-family: cursive;
+    font-size: large;
+    font-weight: bolder;
+}

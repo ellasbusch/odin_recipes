@@ -54,7 +54,14 @@
 .links{
     color: blue;
     font-family: cursive;
-    font-size: large;
-    font-weight: bolder;
+    font-size:xx-large;
 }
 
+.recipe_title{
+    font-size: xx-large;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:mediumorchid;
+    background-color: salmon;
+    display: block;
+    width:fit-content;
+}
